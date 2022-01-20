@@ -36,3 +36,6 @@
 > git checkout NodeJS_example
 > git branch -m NodeJS_example NodeJS_ex
 
+# merge GIT branch
+> git merge NodeJS_ex
+> git merge --abort
