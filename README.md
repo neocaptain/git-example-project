@@ -23,3 +23,16 @@
 # restore local file from GIT with previous checkout version ( content restore )
 > git log
 > git log --oneline
+
+# create GIT branch
+> git branch --list
+> git branch NodeJS_example
+> git checkout -b MyNewBranch
+
+# delete GIT branch
+> git branch -D MyNewBranch
+
+# change GIT branch
+> git checkout NodeJS_example
+> git branch -m NodeJS_example NodeJS_ex
+
