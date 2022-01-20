@@ -22,3 +22,4 @@
 
 # restore local file from GIT with previous checkout version ( content restore )
 > git log
+> git log --oneline
